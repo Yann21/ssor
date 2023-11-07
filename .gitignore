@@ -1,0 +1,4 @@
+.env
+dist
+ssor.egg-*
+ssor/__pycache__/
